@@ -2,7 +2,8 @@
 
 ````markdown
 # HH Goa 2026
-[🌐 Live Demo](https://myhh-goa.vercel.app/)
+
+🌐 **Live Demo:** [https://myhh-goa.vercel.app/](https://myhh-goa.vercel.app/)
 
 ## A Modern Digital Experience for Goa
 
