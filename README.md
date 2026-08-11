@@ -1,9 +1,6 @@
-
-
-````markdown
 # HH Goa 2026
 
-🌐 **Live Demo:** [https://myhh-goa.vercel.app/](https://myhh-goa.vercel.app/)
+🌐 **Live Demo:** [Visit HH Goa 2026](https://myhh-goa.vercel.app/)
 
 ## A Modern Digital Experience for Goa
 
@@ -42,13 +39,10 @@ The project delivers an engaging digital experience inspired by Goa, combining m
 
 ## 📂 Project Structure
 
-```text
 myhh-goa/
-│
 ├── public/
 │   ├── favicon.ico
 │   └── ...
-│
 ├── src/
 │   ├── components/
 │   ├── assets/
@@ -56,14 +50,12 @@ myhh-goa/
 │   ├── App.tsx
 │   ├── main.tsx
 │   └── ...
-│
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
-````
 
 ---
 
@@ -71,53 +63,39 @@ myhh-goa/
 
 ## Prerequisites
 
-Make sure you have the following installed:
+Make sure you have installed:
 
-* Node.js
-* npm
-* Git
+- Node.js
+- npm
+- Git
 
 Check the installations:
 
-```bash
-node --version
-npm --version
-git --version
-```
-
----
+    node --version
+    npm --version
+    git --version
 
 ## 1. Clone the Repository
 
-```bash
-git clone https://github.com/Karheartthik/myhh-goa.git
-```
+    git clone https://github.com/Karheartthik/myhh-goa.git
 
 ## 2. Navigate to the Project
 
-```bash
-cd myhh-goa
-```
+    cd myhh-goa
 
 ## 3. Install Dependencies
 
-```bash
-npm install
-```
+    npm install
 
 ## 4. Start the Development Server
 
-```bash
-npm run dev
-```
+    npm run dev
 
 The application will normally be available at:
 
-```text
-http://localhost:8080
-```
+    http://localhost:8080
 
-If Vite displays a different port in the terminal, open the URL provided by Vite.
+If Vite displays a different port, use the URL shown in the terminal.
 
 ---
 
@@ -125,55 +103,31 @@ If Vite displays a different port in the terminal, open the URL provided by Vite
 
 ### Start Development Server
 
-```bash
-npm run dev
-```
-
-Starts the application in development mode.
+    npm run dev
 
 ### Build for Production
 
-```bash
-npm run build
-```
-
-Creates an optimized production build.
+    npm run build
 
 ### Preview Production Build
 
-```bash
-npm run preview
-```
-
-Runs the production build locally for testing.
+    npm run preview
 
 ### Run Linter
 
-```bash
-npm run lint
-```
-
-Checks the project for code-quality and ESLint issues.
+    npm run lint
 
 ---
 
 # 🔄 Development Workflow
 
-After making changes to the project:
+After making changes:
 
-```bash
-npm run dev
-```
-
-Test the application locally.
+    npm run dev
 
 Before deployment:
 
-```bash
-npm run build
-```
-
-If the build completes successfully, the project is ready for deployment.
+    npm run build
 
 ---
 
@@ -181,28 +135,21 @@ If the build completes successfully, the project is ready for deployment.
 
 After modifying the project:
 
-```bash
-git add .
-```
+    git add .
 
-Create a commit:
+    git commit -m "Update HH Goa project"
 
-```bash
-git commit -m "Update HH Goa project"
-```
-
-Push the changes:
-
-```bash
-git push
-```
+    git push
 
 ---
 
+# 🌐 Deployment
 
-### GitHub Repository
+The project is deployed using Vercel.
 
-[https://github.com/Karheartthik/myhh-goa](https://github.com/Karheartthik/myhh-goa)
+🌐 **Live Website:** [Visit HH Goa 2026](https://myhh-goa.vercel.app/)
+
+📁 **GitHub Repository:** [View Source Code](https://github.com/Karheartthik/myhh-goa)
 
 ---
 
@@ -212,15 +159,15 @@ git push
 
 This project was developed with a focus on:
 
-* Modern visual design
-* User experience
-* Responsive web development
-* Component-based architecture
-* Performance
-* Accessibility
-* Clean and maintainable code
-* Modern frontend development practices
-* Production-ready deployment
+- Modern visual design
+- User experience
+- Responsive web development
+- Component-based architecture
+- Performance
+- Accessibility
+- Clean and maintainable code
+- Modern frontend development practices
+- Production-ready deployment
 
 ---
 
@@ -228,13 +175,10 @@ This project was developed with a focus on:
 
 **Karheartthik**
 
-GitHub:
-[https://github.com/Karheartthik](https://github.com/Karheartthik)
-
-Project Repository:
-[https://github.com/Karheartthik/myhh-goa](https://github.com/Karheartthik/myhh-goa)
+[GitHub Profile](https://github.com/Karheartthik)
 
 ---
 
+# 📄 License
 
-
+This project was developed as part of the **HH Goa 2026 Builder Studio Assignment**.
