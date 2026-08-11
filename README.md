@@ -1,4 +1,4 @@
-Yes — **one single message, one single copy-paste block**. Replace everything in your `README.md` with this:
+
 
 ````markdown
 # HH Goa 2026
